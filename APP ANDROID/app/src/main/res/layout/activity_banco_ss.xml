@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Class.Principais.BancoSSActivity">
+
+    <Button
+        android:id="@+id/btBco10"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 10"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco9" />
+
+    <Button
+        android:id="@+id/btBco5"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 5"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco4" />
+
+    <Button
+        android:id="@+id/btBco6"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 6"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco5" />
+
+    <Button
+        android:id="@+id/btBco7"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 7"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco6" />
+
+    <Button
+        android:id="@+id/btBco8"
+        android:layout_width="0dp"
+        android:layout_height="31dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 8"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco7" />
+
+    <Button
+        android:id="@+id/btBco9"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 9"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco8" />
+
+    <Button
+        android:id="@+id/btBco3"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 3"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco2" />
+
+    <Button
+        android:id="@+id/btBco4"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 4"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco3" />
+
+    <Button
+        android:id="@+id/btBco2"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="9dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 2"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btBco1" />
+
+    <Button
+        android:id="@+id/btBco1"
+        android:layout_width="0dp"
+        android:layout_height="34dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/bt_banco_back"
+        android:text="Banco 1"
+        android:textAppearance="@android:style/TextAppearance.Holo"
+        android:textColor="#00036d"
+        android:textSize="22sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</android.support.constraint.ConstraintLayout>
